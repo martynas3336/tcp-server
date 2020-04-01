@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
-  "files":[
+  "files": [
     "lib"
   ],
   "repository": {
@@ -16,8 +16,10 @@
     "url": "https://github.com/martynas3336/tcp-server/issues"
   },
   "homepage": "https://github.com/martynas3336/tcp-server#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@dealerproductions/tcp-message": "^1.0.0"
+  },
   "publishConfig": {
-    "access":"public"
+    "access": "public"
   }
 }
