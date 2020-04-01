@@ -1,6 +1,6 @@
 {
   "name": "@dealerproductions/tcp-server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/martynas3336/tcp-server#readme",
   "dependencies": {
-    "@dealerproductions/tcp-message": "^1.0.0"
+    "@dealerproductions/tcp-message": "^1.0.0",
+    "bcrypt": "^4.0.1"
   },
   "publishConfig": {
     "access": "public"
