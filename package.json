@@ -16,10 +16,7 @@
     "url": "https://github.com/martynas3336/tcp-server/issues"
   },
   "homepage": "https://github.com/martynas3336/tcp-server#readme",
-  "dependencies": {
-    "json-socket": "^0.3.0",
-    "uuid": "^7.0.2"
-  },
+  "dependencies": {},
   "publishConfig": {
     "access":"public"
   }
